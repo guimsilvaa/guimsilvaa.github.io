@@ -1,11 +1,9 @@
 ---
 layout: single
-title: ""
+title: "Hi"
 permalink: /
 author_profile: true
 ---
-
-## Hi
 
 Welcome to my website.
 
@@ -34,9 +32,4 @@ My name is Guilherme and I develop & apply computational methods for drug discov
 
 ---
 
-## Curriculum Vitae
-
-- **Google Scholar:** [https://scholar.google.com/citations?user=6W7WmE8AAAAJ](https://scholar.google.com/citations?user=6W7WmE8AAAAJ)
-- **CV Lattes:** [https://lattes.cnpq.br/1338730938411339](https://lattes.cnpq.br/1338730938411339)
-
-[Click here to find out more...](https://guimsilvaa.github.io/cv/)
+## More about me...
