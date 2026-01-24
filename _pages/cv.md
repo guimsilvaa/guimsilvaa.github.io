@@ -72,7 +72,40 @@ State University of Londrina - Londrina, Brazil  | Aug 2016 – Jul 2018
 - Organic synthesis, GC-MS, NMR, IR, TLC, rotavapor, chromatography column
 
 ---
-  
+
+## Honors and Awards
+======
+**2024**
+**Invited Speaker – Strasbourg Summer School in Cheminformatics**
+Selected and invited to deliver an oral lecture at the Strasbourg Summer School in Cheminformatics, University of Strasbourg, France.
+
+**2022**
+**1st Place – BioSolveIT Scientific Challenge (Winter Edition)**
+Awarded first place for the proposal *“Ensemble methods to discover putative multi-target anti-Alzheimer agents”*.
+Prize included funds to attend the 9th Cheminformatics Strasbourg Summer School, France, 2024.
+
+**2022**
+**Invited Speaker – RASBQ**
+Selected and invited to present an oral communication at the coordinated session of Medicinal Chemistry and Chemical Biology II, 45th Annual Meeting of the Brazilian Chemical Society (SBQ). Maceió, Brazil.
+
+**2021**
+**CAPES–PrInt Doctoral Fellowship (International Research Internship)**
+Highly competitive fellowship awarded for a six-month Ph.D. research internship abroad at the University of North Carolina at Chapel Hill, USA.
+
+**2020**
+**Research Productivity Award – CAPES / PROEX**
+Awarded for publication of a paper classified as A1/A2 (Qualis/CAPES). Funding provided to support participation in the OpenEye CUP XX international conference (Santa Fe, USA).
+
+**2019**
+**Poster Prize – Royal Society of Chemistry (Organic & Biomolecular Chemistry)**
+Awarded Best Poster at the 9th Brazilian Symposium on Medicinal Chemistry (BrazMedChem), Pirenópolis, Brazil.
+
+**2018**
+**Invited Speaker – Southern Brazilian Chemical Society (SBQ-Sul)**
+Selected and invited to present an oral communication at the XXV Meeting of the Southern Brazilian Chemical Society (SBQ-Sul).
+
+---
+
 Talks
 ======
 **2024**
@@ -175,3 +208,16 @@ Silva, G. M.; Amaral, A. T.
 7th Brazilian Symposium on Medicinal Chemistry (BrazMedChem), Campos do Jordão, Brazil.
 
 ---
+
+Peer review
+======
+Review activity for:
+- ChemMedchem
+- International journal of biological macromolecules
+- International journal of molecular sciences
+- Journal of biomolecular structure and dynamics
+- Journal of chemical information and modeling
+- Sci
+- Molecules
+- Pathogens
+- Pharmaceuticals
