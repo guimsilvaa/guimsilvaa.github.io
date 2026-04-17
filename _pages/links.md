@@ -16,7 +16,7 @@ author_profile: true
 - [Kudos](https://www.growkudos.com/profile/guilherme_silva_3)
 
 ### Academic Tree
-- [Check my academic ancestors][(https://academictree.org/chemistry/tree.php?pid=954829)
+- [Check my academic ancestors](https://academictree.org/chemistry/tree.php?pid=954829)
 
 ### Honors & Titles & Awards
 - [BioSolveIT Scientific Challenge 1st place AWARD](https://www.biosolveit.de/scientific-challenge/project/?projectId=16376243929290)
