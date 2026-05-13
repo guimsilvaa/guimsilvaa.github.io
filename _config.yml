@@ -27,7 +27,7 @@ author:
   avatar           : "profilepic.png"
   name             : "Guilherme Martins Silva, Ph.D."
   pronouns         : #"he/him"  
-  bio              : "Research Scientist in Computer-Aided Drug Discovery"
+  bio              : "Research Scientist in Computer-Driven Drug Discovery"
   location         : "Campinas, SP, Brazil"
   employer         : "LNBio - CNPEM"
   uri              : # URL
@@ -36,15 +36,15 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=6W7WmE8AAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-7571-9090"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Guilherme-Silva-99"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57198448515"
+  researchgate     : # URL
+  scopus           : # URL
   zotero           : # URL
 
 
@@ -52,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/guimsilvaa"
+  github           :  # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
