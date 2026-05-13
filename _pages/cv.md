@@ -56,18 +56,24 @@ University of North Carolina at Chapel Hill — Chapel Hill, USA  | 2021 – 202
 - Supervisor: Prof. Alexander Tropsha  
 - QSAR modeling, cheminformatics, machine learning, and data curation  
 
-**Chemistry Instructor**  
-Londrina, Brazil  | Aug 2016 – Jul 2018  
+**Chemistry Teacher**  
+Londrina, Brazil  | 2017 – 2018  
 - Chemistry teaching at middle school, high school, and undergraduate levels  
 
 **M.Sc. Researcher**  
-University of São Paulo, IQ - São Paulo, Brazil  | Aug 2016 – Jul 2018  
+University of São Paulo, IQ - São Paulo, Brazil  | Mar 2013 – Jul 2016  
 - Laboratory of QSAR and Molecular Modeling 
 - Determined logP by shake-flask method, investigated the ion pair effect onto lipophilicity
 - UV-VIS spectrophotometry, HPLC, NMR, chemometrics, molecular modeling and cheminformatics
 
+**Research & Development Analyst**  
+AQIA Química industrial - Guarulhos, Brazil  | 2015 – 2016  
+- Acted on Research, Development and Inovation projects aiming the obtainment of new products such as cosmetic raw materials
+- Improvement of in-house products with focus on their cost reduction and/or increased performance
+- Interfacial coworking with Production Process, Quality Control and Regulatory Affairs
+
 **Research Internship**  
-State University of Londrina - Londrina, Brazil  | Aug 2016 – Jul 2018  
+State University of Londrina - Londrina, Brazil  | 2009 – 2011
 - Scientific initiation undergrad at the Laboratory of Research in Bioactive Molecules
 - Organic synthesis, GC-MS, NMR, IR, TLC, rotavapor, chromatography column
 
@@ -146,6 +152,11 @@ Annual Scientific Initiation Meeting (EAIC), Guarapuava, Brazil
 
 Posters
 ======
+**2026**
+Llop-Peiro, A. ; Silva, G. M.; Sun, L.
+*Computational Insights into Dual-specificity Tyrosine Phosphorylation-regulated Kinase 1A (DYRK1A) Selectivity.*
+OpenEye CUP XXV, Santa Fe, NM, USA.
+
 **2025**
 Silva, G. M.; Kajimura, S.; Sun, L.
 *Structural modeling of SLC25A47 as a therapeutic target for diabetes.*
