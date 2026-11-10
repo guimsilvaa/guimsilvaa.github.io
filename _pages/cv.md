@@ -153,6 +153,11 @@ Annual Scientific Initiation Meeting (EAIC), Guarapuava, Brazil
 Posters
 ======
 **2026**
+Silva, G. M.; Meneghello, R.; Bertonha, A. F.; Felicio, R.; Goncalves, D. C.; Bruder, M.; Trivella, D. B. B.
+*CODETAC: COmputer-Driven platform to Explore new TArgets and design small molecules and Chimeras from Brazilian biodiversity and experimental data.*
+49ª Reunião Anual da Sociedade Brasileira de Química - SBQ, Campinas, SP, Brazil.
+
+**2026**
 Llop-Peiro, A. ; Silva, G. M.; Sun, L.
 *Computational Insights into Dual-specificity Tyrosine Phosphorylation-regulated Kinase 1A (DYRK1A) Selectivity.*
 OpenEye CUP XXV, Santa Fe, NM, USA.
