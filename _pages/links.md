@@ -7,7 +7,7 @@ author_profile: true
 
 ### Academic profiles
 - <a href="https://lattes.cnpq.br/1338730938411339" target="_blank" rel="noopener noreferrer">CV Lattes</a>
-
+- <a href="https://bv.fapesp.br/pt/pesquisador/759061/guilherme-martins-da-silva" target="_blank" rel="noopener noreferrer">Biblioteca Virtual da FAPESP</a>
 - <a href="https://scholar.google.com/citations?user=6W7WmE8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 - <a href="https://orcid.org/0000-0002-7571-9090" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="https://www.webofscience.com/wos/author/record/1477068" target="_blank" rel="noopener noreferrer">Web Of Science</a>
