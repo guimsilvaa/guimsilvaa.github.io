@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-1. [Exploring proteasome subunits using computational methods for applications in targeted protein degradation](https://bv.fapesp.br/pt/bolsas/250371/explorando-subunidades-do-proteassoma-por-metodos-computacionais-para-aplicacoes-em-degradacao-selet/)
+**1. [Exploring proteasome subunits using computational methods for applications in targeted protein degradation](https://bv.fapesp.br/pt/bolsas/250371/explorando-subunidades-do-proteassoma-por-metodos-computacionais-para-aplicacoes-em-degradacao-selet/)**
 
    **Principal investigator supervisor:** Guilherme Martins Silva — CNPEM (host institution)
   
