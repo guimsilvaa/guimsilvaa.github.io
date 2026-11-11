@@ -24,12 +24,12 @@ author_profile: true
 
 
 
-1) [Exploring proteasome subunits using computational methods for applications in targeted protein degradation](https://bv.fapesp.br/pt/bolsas/250371/explorando-subunidades-do-proteassoma-por-metodos-computacionais-para-aplicacoes-em-degradacao-selet/)
+1. [Exploring proteasome subunits using computational methods for applications in targeted protein degradation](https://bv.fapesp.br/pt/bolsas/250371/explorando-subunidades-do-proteassoma-por-metodos-computacionais-para-aplicacoes-em-degradacao-selet/)
 
-    **Principal investigator supervisor:** Guilherme Martins Silva — CNPEM (host institution)
+   **Principal investigator supervisor:** Guilherme Martins Silva — CNPEM (host institution)
   
-    **FAPESP scientific initiation fellow:** Beatriz Pierre Sforça — UNICAMP
+   **FAPESP scientific initiation fellow:** Beatriz Pierre Sforça — UNICAMP
   
-    Targeted protein degradation has emerged as an innovative drug discovery strategy, typically relying on bifunctional molecules such as PROTACs that recruit a protein of interest to an E3 ligase for ubiquitination and subsequent proteasomal degradation. This approach is limited by its dependence on the ubiquitination machinery and by the small number of exploitable E3 ligases, which has motivated ubiquitin-independent alternatives such as ByeTACs, which recruit substrates directly to the proteasome. Regulatory proteasome subunits are central to substrate recognition and therefore stand out as promising targets for this new class of degraders, yet they remain largely unexplored by small-molecule computational approaches. This project integrates computational medicinal chemistry — physics-based and artificial intelligence tools — to structurally characterize these subunits and run virtual screening campaigns, aiming to establish an integrated workflow for identifying candidate compounds that enable new targeted protein degradation strategies.
+   Targeted protein degradation has emerged as an innovative drug discovery strategy, typically relying on bifunctional molecules such as PROTACs that recruit a protein of interest to an E3 ligase for ubiquitination and subsequent proteasomal degradation. This approach is limited by its dependence on the ubiquitination machinery and by the small number of exploitable E3 ligases, which has motivated ubiquitin-independent alternatives such as ByeTACs, which recruit substrates directly to the proteasome. Regulatory proteasome subunits are central to substrate recognition and therefore stand out as promising targets for this new class of degraders, yet they remain largely unexplored by small-molecule computational approaches. This project integrates computational medicinal chemistry — physics-based and artificial intelligence tools — to structurally characterize these subunits and run virtual screening campaigns, aiming to establish an integrated workflow for identifying candidate compounds that enable new targeted protein degradation strategies.
 
    
